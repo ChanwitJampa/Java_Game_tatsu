@@ -1,6 +1,6 @@
 package project;
 
-public class test{
+public class main{
 	static Gamewindow gamewindow;
 	private static Thread thread;
 	public static void main(String[] args) {
